@@ -1,0 +1,16 @@
+/home/dimitri/github/bank/DIO.Bank/obj/Debug/net5.0/DIO.Bank.csproj.AssemblyReference.cache
+/home/dimitri/github/bank/DIO.Bank/obj/Debug/net5.0/DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+/home/dimitri/github/bank/DIO.Bank/obj/Debug/net5.0/DIO.Bank.AssemblyInfoInputs.cache
+/home/dimitri/github/bank/DIO.Bank/obj/Debug/net5.0/DIO.Bank.AssemblyInfo.cs
+/home/dimitri/github/bank/DIO.Bank/obj/Debug/net5.0/DIO.Bank.csproj.CoreCompileInputs.cache
+/home/dimitri/github/bank/DIO.Bank/bin/Debug/net5.0/DIO.Bank
+/home/dimitri/github/bank/DIO.Bank/bin/Debug/net5.0/DIO.Bank.deps.json
+/home/dimitri/github/bank/DIO.Bank/bin/Debug/net5.0/DIO.Bank.runtimeconfig.json
+/home/dimitri/github/bank/DIO.Bank/bin/Debug/net5.0/DIO.Bank.runtimeconfig.dev.json
+/home/dimitri/github/bank/DIO.Bank/bin/Debug/net5.0/DIO.Bank.dll
+/home/dimitri/github/bank/DIO.Bank/bin/Debug/net5.0/ref/DIO.Bank.dll
+/home/dimitri/github/bank/DIO.Bank/bin/Debug/net5.0/DIO.Bank.pdb
+/home/dimitri/github/bank/DIO.Bank/obj/Debug/net5.0/DIO.Bank.dll
+/home/dimitri/github/bank/DIO.Bank/obj/Debug/net5.0/ref/DIO.Bank.dll
+/home/dimitri/github/bank/DIO.Bank/obj/Debug/net5.0/DIO.Bank.pdb
+/home/dimitri/github/bank/DIO.Bank/obj/Debug/net5.0/DIO.Bank.genruntimeconfig.cache
