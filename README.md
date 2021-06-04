@@ -1,6 +1,6 @@
 # **DIO.Bank** 
 
-<img src="https://img.shields.io/static/v1?label=PROGRAMMING LANGUAGE&message= CSHARP&color=512BD4&style=flat&logo=c-sharp"/>    <img src="https://img.shields.io/static/v1?label=FRAMEWORK&message=.NET 5&color=&style=flat"/>   <img src="https://img.shields.io/static/v1?label=licence&message=MIT&color=&style=flat"/> 
+<img src="https://img.shields.io/static/v1?label=PROGRAMMINGLANGUAGE&message=Csharp&color=512BD4&style=flat&logo=c-sharp"/> <img src="https://img.shields.io/static/v1?label=FRAMEWORK&message=.NET5&color=&style=flat"/> <img src="https://img.shields.io/static/v1?label=licence&message=MIT&color=&style=flat"/> 
 
 
 A simple C#/.NET console banking application made to learn about Classes and object-oriented concepts.
@@ -49,18 +49,6 @@ Feel free to suggest changes, copy or adapt the code to your needs! I'm always a
 
 As said above, my main objective in the future is code some kind of database to save accounts data. Also, the Class concept easily permits the implementation of a simply authentication method to interact with account values. I think that is enough for this small banking app!
 
----
-
-<a href="https://blog.rocketseat.com.br/author/thiago/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/29147875?v=4" width="100px;" alt=""/>
- <br />
- <sub><b>Demitry Messias</b></sub></a> 
-
-
-Done with  ❤️ by Demitry Messias 👋🏽 Be in contact!
-
-[![Twitter Badge](https://img.shields.io/badge/-@dimmy_mess-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/dimmy_mess)[![GEntre em contatoEntre em contatomail Badge](https://img.shields.io/badge/-dimmy.messias@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:dimmy.messias@gmail.com)  
-
 _____________
 
 # Dio.Bank
@@ -105,12 +93,13 @@ Como dito acima, meu objetivo principal no futuro é implementar algum tipo de b
 
 ---
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
+### Author:
+
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/29147875?v=4" width="100px;" alt=""/>
- <br />
- <sub><b>Demitry Messias</b></sub></a> 
+
+ <sub><b>Demitry Messias</b></sub> 
 
 
-Trabalho feito com ❤️ por Demitry Messias 👋🏽 Entre em contato!
+Done with ❤️ by Demitry Messias 👋🏽 Contact him!
 
 [![Twitter Badge](https://img.shields.io/badge/-@dimmy_mess-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/dimmy_mess) [![Gmail Badge](https://img.shields.io/badge/-dimmy.messias@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:dimmy.messias@gmail.com)
