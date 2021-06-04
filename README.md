@@ -1,6 +1,6 @@
 # **DIO.Bank** 
 
-<img src="https://img.shields.io/static/v1?label=PROGRAMMING LANGUAGE&message= CSHARP&color=512BD4&style=flat&logo=c-sharp"/>  <img src="https://img.shields.io/static/v1?label=FRAMEWORK&message=.NET 5&color=&style=flat"/> <img src="https://img.shields.io/static/v1?label=licence&message=MIT&color=&style=flat"/> 
+<img src="https://img.shields.io/static/v1?label=PROGRAMMING LANGUAGE&message= CSHARP&color=512BD4&style=flat&logo=c-sharp"/>    <img src="https://img.shields.io/static/v1?label=FRAMEWORK&message=.NET 5&color=&style=flat"/>   <img src="https://img.shields.io/static/v1?label=licence&message=MIT&color=&style=flat"/> 
 
 
 A simple C#/.NET console banking application made to learn about Classes and object-oriented concepts.
@@ -59,7 +59,7 @@ As said above, my main objective in the future is code some kind of database to 
 
 Done with  ❤️ by Demitry Messias 👋🏽 Be in contact!
 
-[![Twitter Badge](https://img.shields.io/badge/-@dimmy_mess-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=Entre em contatoEntre em contatohttps://twitter.com/)](https://twitter.com/dimmy_mess) [![GEntre em contatoEntre em contatomail Badge](https://img.shields.io/badge/-dimmy.messias@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:dimmy.messias@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@dimmy_mess-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=Entre em contatoEntre em contatohttps://twitter.com/)](https://twitter.com/dimmy_mess)  [![GEntre em contatoEntre em contatomail Badge](https://img.shields.io/badge/-dimmy.messias@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:dimmy.messias@gmail.com)
 
 _____________
 
